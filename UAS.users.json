@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "659b99854b389887d737afd8"
+  },
+  "id": 1,
+  "nim": "3444",
+  "namadepan": "Elo",
+  "namaBelakang": "Putra",
+  "phone": "121212",
+  "KotaAsal": "Palembang"
+},
+{
+  "_id": {
+    "$oid": "659b99854b389887d737afd9"
+  },
+  "id": 2,
+  "nim": "3445",
+  "namadepan": "Eko",
+  "namaBelakang": "Kuntadhi",
+  "phone": "131313",
+  "KotaAsal": "Jakarta"
+}]

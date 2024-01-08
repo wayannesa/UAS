@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "659ba2314b389887d737afde"
+  },
+  "description": "Map containing Country, Capital, Currency, and some States of that Country",
+  "name": "Asia",
+  "countries": [
+    {
+      "name": "India",
+      "capital": "New Delhi",
+      "minTemp": 6,
+      "maxTemp": 45,
+      "currency": "Rupee"
+    },
+    {
+      "name": "Nepal",
+      "capital": "Katmandu",
+      "minTemp": 9,
+      "maxTemp": 23,
+      "currency": "Nepalese rupee"
+    }
+  ]
+}]

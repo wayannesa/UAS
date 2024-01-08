@@ -1,0 +1,40 @@
+[{
+  "_id": 1,
+  "idmhs": 3444,
+  "hobi": [
+    "Traveling",
+    "music",
+    "games"
+  ]
+},
+{
+  "_id": 2,
+  "idmhs": 3445,
+  "hobi": [
+    "Kuliner",
+    "memancing",
+    "traveling",
+    "games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba5ef4b389887d737afe0"
+  },
+  "id": 1,
+  "hobi": "Traveling"
+},
+{
+  "_id": {
+    "$oid": "659ba5ef4b389887d737afe1"
+  },
+  "id": 2,
+  "hobi": "Music"
+},
+{
+  "_id": {
+    "$oid": "659ba5ef4b389887d737afe2"
+  },
+  "id": 3,
+  "hobi": "Games"
+}]
